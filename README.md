@@ -4,13 +4,13 @@
 2. Project Architecture
 3. Tech Stack
 4. Backend Implementation
-   4.1 API Endpoints
-   4.2 Natural Language Processing (NLP)
-   4.3 Database Schema
+4.1 API Endpoints
+4.2 Natural Language Processing (NLP)
+4.3 Database Schema
 5. Frontend Implementation
-   5.1 User Interface (UI) Design
-   5.2 API Integration
-   5.3 State Management
+5.1 User Interface (UI) Design
+5.2 API Integration
+5.3 State Management
 6. Deployment
 7. Testing
 8. Conclusion
